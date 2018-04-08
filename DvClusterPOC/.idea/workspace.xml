@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d62f07df-09e0-40d8-a2f2-b825e0aa479a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DvClusterPOC$Boot.ic" NAME="Boot Coverage Results" MODIFIED="1522918804087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dv.akka.cluster02.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TpsClusterBench01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DvRoute.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/DvRoute.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+              <folding>
+                <element signature="e#40#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrchestratorActor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/OrchestratorActor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="71" selection-start-line="71" selection-end-line="72" />
+              <folding>
+                <element signature="e#34#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AskSupport.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.11-sources.jar!/akka/pattern/AskSupport.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4824">
+              <caret line="280" column="6" selection-start-line="280" selection-start-column="6" selection-end-line="280" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Job.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/Job.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceGateway.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/ServiceGateway.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <element signature="e#39#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UrlWorker.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/UrlWorker.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              <folding>
+                <element signature="e#40#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvroSerializationTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/AvroSerializationTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DvImpression.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Boot.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/Boot.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#32#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>workMicrosec</find>
+      <find>got j</find>
+      <find>println</find>
+      <find>clusterService</find>
+      <find>assemblyMergeStrategy</find>
+      <find>arter</find>
+      <find>auto</find>
+      <find>int</find>
+      <find>int3</find>
+      <find>yep</find>
+      <find>ImpressionSerializer</find>
+      <find>optional</find>
+      <find>[default = 10]</find>
+      <find>[default = &quot;abcdefghijklmnopqrstuvwxyz012345&quot;]</find>
+      <find>4</find>
+      <find>DvImpProto4</find>
+      <find>strDvImpression1ing</find>
+      <find>system</find>
+      <find>noneAvroSerializer</find>
+      <find>DvImpression1</find>
+      <find>size</find>
+      <find>&quot;abc&quot;</find>
+      <find>abcdef</find>
+      <find>&quot;abcdefghijklmnopqrstuvwxyz012345&quot;</find>
+      <find>DvImpression3</find>
+      <find>DvImpressionBig</find>
+      <find>big</find>
+      <find>&quot;big</find>
+      <find>&quot;in</find>
+      <find>my-thread-pool-dispatcher</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>clusterPOC</replace>
+      <replace>&quot;type&quot;: [ &quot;null&quot;, &quot;string&quot; ]</replace>
+      <replace>&quot;type&quot;: [ &quot;null&quot;, &quot;string&quot; ], &quot;default&quot; : null</replace>
+      <replace>&quot;type&quot;: [ &quot;null&quot;, &quot;int&quot; ], &quot;default&quot; : 42</replace>
+      <replace>&quot;type&quot;: [ &quot;null&quot;, &quot;int&quot; ]</replace>
+      <replace>&quot;default&quot; : &quot;abcdefghijklmnopqrstuvwxyz012345&quot;</replace>
+      <replace>42</replace>
+      <replace>int32</replace>
+      <replace />
+      <replace>&quot;abcdefghijklm&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster02/OrchestratorActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster02/routing/DvRoute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster02/HttpServer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster02/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster02/ClusterService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/HttpServer.scala" />
+        <option value="$PROJECT_DIR$/sbt-dist/bin/.sbtopts" />
+        <option value="$PROJECT_DIR$/gc_tps_log.log" />
+        <option value="$PROJECT_DIR$/.sbtopts" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/actors/UrlServiceRoutee.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/ClusterService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/models/Models.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/routing/DvRoute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/OrchestratorActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/Boot.scala" />
+        <option value="$PROJECT_DIR$/../../Samples/ScalaSample/src/main/scala/sc1.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/actors/UrlWorker.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/actors/ServiceGateway.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/HttpServer.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/routerTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/BaseRoute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/PerRequestActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/RouterStrategy/RedundancyRoutingLogic.scala" />
+        <option value="$PROJECT_DIR$/project/build.properties" />
+        <option value="$PROJECT_DIR$/project/protoc.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/serialization/AvroSerializer.scala" />
+        <option value="$PROJECT_DIR$/src/main/avro/models2.avsc" />
+        <option value="$PROJECT_DIR$/src/main/avro/models3.avsc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/ImperativeRequestContext.scala" />
+        <option value="$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/Job.scala" />
+        <option value="$PROJECT_DIR$/src/main/avro/models4.avsc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/json/JsonSupport.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/DvImpression1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/ModelsProto.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/serialization/HoppedAvroSerializer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/serialization/AvroSerializer.scala" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/avro/DvImpression.avsc" />
+        <option value="$PROJECT_DIR$/src/main/avro/models5.avsc" />
+        <option value="$PROJECT_DIR$/src/main/avro/models.avsc" />
+        <option value="$PROJECT_DIR$/src/main/protobuf/models.proto" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/Models.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/ClusterService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/ServiceGateway.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/OrchestratorActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/DvRoute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/UrlWorker.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/AvroSerializationTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="avro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterpoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterpoc" type="462c0819:PsiDirectoryNode" />
+              <item name="actors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterpoc" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterpoc" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterpoc" type="462c0819:PsiDirectoryNode" />
+              <item name="routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="serialization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DvClusterPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.11:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.11:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-actor_2.12-2.5.11.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.11:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-actor_2.12-2.5.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DvClusterPOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-actor_2.12:2.5.11:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-actor_2.12-2.5.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/tomers/Code/Akka/TpsClusterBench/src/main/scala/com/dv/akka/cluster01/HttpServer.scala" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AskSample" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dv.akka.clusterpoc.models" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dv.akka.cluster01.routing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models" />
+      <recent name="$PROJECT_DIR$/src/main/scala/com/dv/akka/cluster01/routing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Boot">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dv.akka.clusterpoc.Boot" />
+      <module name="dvclusterpoc" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dv.akka.cluster02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="akka-sample-cluster-scala-build" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="AvroSerializationTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="dvclusterpoc" />
+      <setting name="path" value="AvroSerializationTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="AvroSerializationTest" />
+    </configuration>
+    <configuration name="AvroSerializationTest.An Avro Serializer should  Serialize DV Data" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="dvclusterpoc" />
+      <setting name="path" value="AvroSerializationTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="AvroSerializationTest" />
+      <setting name="testName" value="An Avro Serializer should  Serialize DV Data" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Boot" />
+      <item itemvalue="ScalaTest.AvroSerializationTest.An Avro Serializer should  Serialize DV Data" />
+      <item itemvalue="ScalaTest.AvroSerializationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boot" />
+        <item itemvalue="ScalaTest.AvroSerializationTest" />
+        <item itemvalue="ScalaTest.AvroSerializationTest.An Avro Serializer should  Serialize DV Data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="DvClusterPOC" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="dvclusterpoc" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="dvclusterpoc-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7608795597000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="760069409" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2766693235" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2509400814" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="1925584037" />
+        <entry key="$PROJECT_DIR$/project/protoc.sbt" value="4163269798" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ClusterRouteAware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Learning-Akka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Learning-Akka/playing-with-actors" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples-cluster-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Samples/akka-http-actor-per-request-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala/Learning-Akka/persistence" value="PREVIEW" />
+        <entry key="$USER_HOME$/scale-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d62f07df-09e0-40d8-a2f2-b825e0aa479a" name="Default" comment="" />
+      <created>1517474184230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517474184230</updated>
+      <workItem from="1522582632953" duration="46000" />
+      <workItem from="1522582698401" duration="619000" />
+      <workItem from="1522585050797" duration="91000" />
+      <workItem from="1522585161912" duration="30000" />
+      <workItem from="1522585214038" duration="171000" />
+      <workItem from="1522585410593" duration="17376000" />
+      <workItem from="1522742789417" duration="747000" />
+      <workItem from="1522743702674" duration="13644000" />
+      <workItem from="1522765655297" duration="4966000" />
+      <workItem from="1522777538999" duration="18948000" />
+      <workItem from="1522848629720" duration="6891000" />
+      <workItem from="1522856834364" duration="145000" />
+      <workItem from="1522913283468" duration="6901000" />
+      <workItem from="1523000128533" duration="1955000" />
+      <workItem from="1523095636897" duration="1642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AvroSerializationTest_An_Avro_Serializer_should__Serialize_DV_Data - 2018.04.05 at 10h 36m 43s.xml">
+      <configuration name="AvroSerializationTest.An Avro Serializer should  Serialize DV Data" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 37m 18s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 38m 09s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 38m 26s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 43m 29s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 43m 50s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 44m 49s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 10h 47m 25s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 11h 11m 23s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AvroSerializationTest - 2018.04.05 at 11h 56m 48s.xml">
+      <configuration name="AvroSerializationTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74172000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="sbt" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51967657" side_tool="true" weight="0.33053514" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39349422" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48032346" visible="true" weight="0.42497376" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4963351" visible="true" weight="0.25552562" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.32984293" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="3" sideWeight="0.5036649" side_tool="true" weight="0.17250673" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979014" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948583" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32991913" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4963351" visible="true" weight="0.17250673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" weight="0.32984293" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="sbt" order="7" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48032346" visible="true" weight="0.33053514" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51967657" side_tool="true" weight="0.33053514" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32984293" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="3" sideWeight="0.5036649" side_tool="true" weight="0.17250673" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpProto.scala</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-remote_2.12/srcs/akka-remote_2.12-2.5.11-sources.jar!/akka/remote/MessageSerializer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/protoc.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/DvImpression2.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpProto4.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.google.protobuf/protobuf-java/srcs/protobuf-java-3.5.0-sources.jar!/com/google/protobuf/WireFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.google.protobuf/protobuf-java/srcs/protobuf-java-3.5.0-sources.jar!/com/google/protobuf/CodedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12240">
+          <caret line="728" column="22" selection-start-line="728" selection-start-column="22" selection-end-line="728" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/DvImpression1.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.julianpeeters/sbt-avrohugger/jars/sbt-avrohugger-2.0.0-RC3.jar!/sbtavrohugger/SbtAvrohugger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpProto2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="263" column="21" selection-start-line="263" selection-start-column="21" selection-end-line="263" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.avro/avro/srcs/avro-1.8.2-sources.jar!/org/apache/avro/specific/SpecificRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.avro/avro/srcs/avro-1.8.2-sources.jar!/org/apache/avro/specific/SpecificRecordBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/Consolidation.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.11-sources.jar!/akka/serialization/SerializationExtension.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/avro/models4.avsc" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression5.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpressionTest.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression12.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/avro/models.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="14" column="87" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpProto1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="272" column="10" lean-forward="true" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression2.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression3.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression1.scala" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/serialization/AvroSerializer.scala" />
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression11.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="761" column="24" lean-forward="true" selection-start-line="761" selection-start-column="24" selection-end-line="761" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.1-sources.jar!/org/scalatest/OutcomeOf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.1-sources.jar!/org/scalatest/Transformer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.1-sources.jar!/org/scalatest/FlatSpecLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1681" column="35" selection-start-line="1681" selection-start-column="35" selection-end-line="1681" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.1-sources.jar!/org/scalatest/TestSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="195" column="4" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.1-sources.jar!/org/scalatest/Engine.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="288" column="6" selection-start-line="288" selection-start-column="6" selection-end-line="288" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpProto.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/json/JsonSupport.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/HttpServer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/DvImpressionHuge.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.google.protobuf/protobuf-java/srcs/protobuf-java-3.5.0-sources.jar!/com/google/protobuf/ByteString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="307" column="13" selection-start-line="307" selection-start-column="13" selection-end-line="307" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/serialization/HoppedAvroSerializer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/avro/models.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="276" column="99" selection-start-line="276" selection-start-column="99" selection-end-line="276" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/protobuf/models.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/models/Models.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/ClusterService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#32#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.11-sources.jar!/akka/pattern/AskSupport.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4824">
+          <caret line="280" column="6" selection-start-line="280" selection-start-column="6" selection-end-line="280" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/ServiceGateway.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#39#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/OrchestratorActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="71" selection-start-line="71" selection-end-line="72" />
+          <folding>
+            <element signature="e#34#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/Boot.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#32#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/routing/DvRoute.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+          <folding>
+            <element signature="e#40#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/compiled_avro/com/dv/akka/clusterpoc/models/DvImpression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/src_managed/main/com/dv/akka/clusterpoc/models/Job.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dv/akka/clusterpoc/actors/UrlWorker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <folding>
+            <element signature="e#40#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/AvroSerializationTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dvclusterpoc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: ch.qos.logback:logback-classic:1.2.3:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

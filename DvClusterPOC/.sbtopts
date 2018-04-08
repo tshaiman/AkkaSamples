@@ -1,0 +1,12 @@
+-J-Xmx4G
+-J-XX:+UseConcMarkSweepGC
+-J-XX:+CMSClassUnloadingEnabled
+-J-XX:MaxPermSize=2G
+-J-Xss2M
+-J-XX:+PrintGCDetails
+-J-XX:+PrintGCDateStamps
+-J-Xloggc:gctpslog.log
+-J-XX:NumberOfGCLogFiles=500
+-J-XX:+UseGCLogFileRotation
+-J-XX:GCLogFileSize=2000k
+
